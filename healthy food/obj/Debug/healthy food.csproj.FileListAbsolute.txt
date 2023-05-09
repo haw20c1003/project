@@ -1,0 +1,19 @@
+D:\healthy food\healthy food\obj\Debug\healthy food.csprojAssemblyReference.cache
+D:\healthy food\healthy food\obj\Debug\healthy_food.Form1.resources
+D:\healthy food\healthy food\obj\Debug\healthy_food.Form2.resources
+D:\healthy food\healthy food\obj\Debug\healthy_food.Properties.Resources.resources
+D:\healthy food\healthy food\obj\Debug\healthy food.csproj.GenerateResource.cache
+D:\healthy food\healthy food\bin\Debug\healthy food.exe.config
+D:\healthy food\healthy food\bin\Debug\healthy food.exe
+D:\healthy food\healthy food\bin\Debug\healthy food.pdb
+D:\healthy food\healthy food\obj\Debug\healthy food.exe
+D:\healthy food\healthy food\obj\Debug\healthy food.pdb
+D:\healthy food\healthy food\obj\Debug\healthy_food.Form3.resources
+D:\healthy food\healthy food\obj\Debug\healthy_food.Form4.resources
+D:\healthy food\healthy food\bin\Debug\Database1.accdb
+D:\healthy food\healthy food\obj\Debug\healthy_food.Form5.resources
+D:\healthy food\healthy food\obj\Debug\healthy_food.Form6.resources
+D:\healthy food\healthy food\obj\Debug\healthy_food.Form7.resources
+D:\healthy food\healthy food\obj\Debug\healthy_food.Form10.resources
+D:\healthy food\healthy food\obj\Debug\healthy_food.Form8.resources
+D:\healthy food\healthy food\obj\Debug\healthy_food.Form9.resources
